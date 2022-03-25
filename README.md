@@ -1,2 +1,2 @@
-# crab_picabu
+# scrab_picabu
 python scrab website https://pikabu.ru
